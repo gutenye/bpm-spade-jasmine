@@ -9,6 +9,9 @@
     "lib": "lib"
   },
   "bpm:build": {
+		"bpm_libs.js": {
+			"files": [ ]
+		},
     "spade-jasmine": {
       "assets": [
         "index.html"
