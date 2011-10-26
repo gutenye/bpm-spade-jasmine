@@ -1,0 +1,32 @@
+{
+  "name": "test-env",
+  "summary": "A test environment for spade-jasmine",
+  "description": "A test environment for spade-jasmine",
+  "homepage": "http://github.com/GutenYe/spade-jasmine",
+  "author": "Guten",
+  "version": "0.0.1",
+  "directories": {
+    "lib": "lib"
+  },
+  "bpm:build": {
+    "bpm_libs.js": {
+      "files": [
+				"lib"
+      ]
+    },
+    "spade-jasmine": {
+      "assets": [
+        "index.html"
+      ]
+    },
+    "test-env/bpm_tests.js": {
+      "files": [
+        "spec"
+      ]
+    }
+  },
+  "dependencies": {
+    "spade": ">= 0",
+    "spade-jasmine": ">= 0"
+  }
+}

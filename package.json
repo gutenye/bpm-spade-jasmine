@@ -16,11 +16,6 @@
       "assets": [
         "index.html"
       ]
-    },
-    "spade-jasmine/bpm_tests.js": {
-      "files": [
-        "spec"
-      ]
     }
   },
   "dependencies": {
