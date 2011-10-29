@@ -14,9 +14,9 @@
 				"lib"
       ]
     },
-    "spade-jasmine": {
+    "test-env": {
       "assets": [
-        "index.html"
+        "spec.html"
       ]
     },
     "test-env/bpm_tests.js": {
