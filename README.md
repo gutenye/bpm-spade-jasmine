@@ -4,7 +4,7 @@ spade-jasmine, jasmine meets spade
 INSTALL
 -------
 
-`$ bpm add spade-jasmine --dev --pre`
+`$ bpm add spade-jasmine --dev`
 
 
 Usage
