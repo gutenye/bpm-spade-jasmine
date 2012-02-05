@@ -4,8 +4,7 @@ spade-jasmine, jasmine meets spade
 INSTALL
 -------
 
-`$ bpm add spade-jasmine --dev`
-
+	$ bpm add spade-jasmine --dev
 
 Usage
 ------
@@ -24,7 +23,7 @@ Config project
 Run tests 
 
 	$ bpm preview
-	# goto localhost:4020/spade-jasmine/index.html?package=<app>
+	# goto localhost:4020/assets/spade-jasmine/index.html?package=<app>
 	
 
 Resources
