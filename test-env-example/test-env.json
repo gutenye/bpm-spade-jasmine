@@ -1,0 +1,25 @@
+{
+  "name": "test-env",
+  "bpm": "1.0.0",
+  "bpm:build": {
+    "bpm_libs.js": {
+      "files": [
+        "lib"
+      ]
+    },
+    "bpm_styles.css": {
+      "files": [
+        "css"
+      ]
+    },
+    "test-env/bpm_tests.js": {
+      "files": [
+        "spec"
+      ]
+    }
+  },
+  "dependencies": {
+    "spade": ">= 0",
+    "spade-jasmine": ">= 0"
+  }
+}

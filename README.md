@@ -25,6 +25,21 @@ Run tests
 	$ bpm preview
 	# goto localhost:4020/assets/spade-jasmine/index.html?package=<app>
 	
+Development
+-----------
+
+setup test environment 
+
+	$ cp -r test-env-example test-env
+	$ bpm preview
+	# goto localhost:4020/assets/spade-jasmine/index.html?package=test-env
+
+note
+
+	don't symlink spade-jasmine/vendor/jasmine, it breaks test-env. 
+	# assets/bpm_test_libs.js wrapped by spade.
+	solution: symlink test-env/vendor/jasmine, too
+
 
 Resources
 ---------

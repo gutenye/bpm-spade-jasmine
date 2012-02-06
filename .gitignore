@@ -1,3 +1,5 @@
-assets/
-.bpm/
-*.bpkg
+/assets
+/.bpm
+/*.bpkg
+/vendor
+/test-env

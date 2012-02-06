@@ -1,0 +1,14 @@
+{
+  "spade": {
+    "version": "1.0.2",
+    "path": "/home/guten/.bpm/gems/spade-1.0.2"
+  },
+  "spade-jasmine": {
+    "version": "1.1.0.004",
+    "path": "/home/guten/dev/one/bpm/spade-jasmine/test-env/vendor/spade-jasmine"
+  },
+  "jasmine": {
+    "version": "1.1.0.006",
+    "path": "/home/guten/.bpm/gems/jasmine-1.1.0.006"
+  }
+}
