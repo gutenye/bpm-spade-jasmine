@@ -2,7 +2,7 @@
   "name": "spade-jasmine",
   "summary": "behavior-driven test framework for JavaScript",
   "description": "behavior-driven test framework for JavaScript",
-  "homepage": "http://github.com/GutenYe/spade-jasmine",
+  "homepage": "http://github.com/GutenYe/bpm-spade-jasmine",
   "author": "Guten",
   "version": "1.1.0.004",
   "directories": {
