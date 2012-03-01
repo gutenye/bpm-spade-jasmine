@@ -6,6 +6,8 @@ INSTALL
 
 	$ bpm add spade-jasmine --dev
 
+See [bpm-jasmine](https://github.com/GutenYe/bpm-jasmine) if you use bpm without spade.
+
 Usage
 ------
 
